@@ -46,7 +46,7 @@ function PropertiesItem({ image, name, price, region, city, floorarea, lotarea, 
           <Button variant="secondary" onClick={handleClose}>
             Close
           </Button>
-          <Button variant="primary">Understood</Button>
+          <Button variant="primary">Understood Check if this is updated in master</Button>
         </Modal.Footer>
       </Modal>
 
