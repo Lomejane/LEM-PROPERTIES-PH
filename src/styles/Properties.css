@@ -42,7 +42,11 @@ float: left;
 .propertiesItem:hover {
   /* box-shadow: 0px 3px 15px rgba(0, 0, 0, 0.5);
   transition: 0.3s ease-in; */
+<<<<<<< HEAD
   background-color:#368D96;
+=======
+  background-color: #FE9C8F;
+>>>>>>> 5abdea0b39fa4e6d42ba7385972e9625a4c5eef6
   transform: scale(1.1);
   transform-origin: center;
   transition-delay: 0.4s;
@@ -71,11 +75,15 @@ float: left;
 .card-footer Button{
   border-radius:10px;
   border: none;
+<<<<<<< HEAD
 
   background-color: #10202b;
   color: #fff;
   height: 2rem;
   width: 5rem;
+=======
+  background-color: skyblue;
+>>>>>>> 5abdea0b39fa4e6d42ba7385972e9625a4c5eef6
 
 }
 @media only screen and (max-width: 1300px) {
