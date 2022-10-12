@@ -1,5 +1,4 @@
 import React from 'react'
-// import { Link } from 'react-router-dom';
 import HouseHero from '../assets/HouseHero.jpg';
 import DiningArea from '../assets/DiningArea.jpg';
 import Mindanao from '../assets/Mindanao.jpg';

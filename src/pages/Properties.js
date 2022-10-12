@@ -1,7 +1,7 @@
 import React from "react";
-import { PropertiesList } from "../helpers/PropertiesList";
-import PropertiesItem from "../components/PropertiesItem";
-import "../styles/Properties.css";
+import { PropertiesList } from '../helpers/PropertiesList';
+import PropertiesItem from '../components/PropertiesItem';
+import '../styles/Properties.css';
 
 function Properties() {
   return (
