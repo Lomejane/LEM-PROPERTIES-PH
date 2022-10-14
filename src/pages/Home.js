@@ -153,7 +153,7 @@ function Home() {
               <p>123BZ Rizal St. Makati City</p>
               <p>3 Storey House with 5 bedrooms</p>
               <p>15,000 to 20,000 per month</p>
-              <button>Rent Now</button>
+              <button>See Details</button>
             </div>
           </div>
           <div className="grid-item2">
@@ -162,7 +162,7 @@ function Home() {
               <p>123BZ Rizal St. Makati City</p>
               <p>3 Storey House with 5 bedrooms</p>
               <p>15,000 to 20,000 per month</p>
-              <button>Rent Now</button>
+              <button>See Details</button>
             </div>
           </div>
           <div className="grid-item2">
@@ -171,7 +171,7 @@ function Home() {
               <p>123BZ Rizal St. Makati City</p>
               <p>3 Storey House with 5 bedrooms</p>
               <p>15,000 to 20,000 per month</p>
-              <button>Rent Now</button>
+              <button>See Details</button>
             </div>
           </div>
         </div> <br /> <br />
@@ -182,7 +182,7 @@ function Home() {
               <p>123BZ Rizal St. Makati City</p>
               <p>3 Storey House with 5 bedrooms</p>
               <p>15,000 to 20,000 per month</p>
-              <button>Rent Now</button>
+              <button>See Details</button>
             </div>
           </div>
           <div className="grid-item2">
@@ -191,7 +191,7 @@ function Home() {
               <p>123BZ Rizal St. Makati City</p>
               <p>3 Storey House with 5 bedrooms</p>
               <p>15,000 to 20,000 per month</p>
-              <button>Rent Now</button>
+              <button>See Details</button>
             </div>
           </div>
           <div className="grid-item2">
@@ -200,7 +200,7 @@ function Home() {
               <p>123BZ Rizal St. Makati City</p>
               <p>3 Storey House with 5 bedrooms</p>
               <p>15,000 to 20,000 per month</p>
-              <button>Rent Now</button>
+              <button>See Details</button>
             </div>
           </div>
         </div> 
