@@ -23,7 +23,7 @@ function Navbar() {
             <Link to="/about">About</Link>
             <Link to="/contact">Contact</Link>
             <Link to="/signup">Signup</Link>
-            <Link to="/login">SignIN</Link>
+            <Link to="/login">SignIn</Link>
         </div>
       </div>
       <div className="rightSide">
