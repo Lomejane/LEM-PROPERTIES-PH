@@ -23,7 +23,7 @@ function Home() {
     <div className="Hero-Section">
       <div className="Grid-Container-Hero">
         <div className="Hero-Subtitle">
-          <h3>The best platform to Rent and Sell properties</h3> 
+          <h3>The best platform to <br />Buy and Sell properties</h3> 
           <p>See properties that might pique your interests</p>
           <button className='ExploreBtn'>EXPLORE</button>
         </div>
@@ -89,13 +89,13 @@ function Home() {
         <div className="grid-container-discover">
           <div className="grid-item-discover1">
             <div className="text-discover">
-              <p>Create a new journey while experiencing the rich and diverse culture of Dumaguete City</p>
+              <p>Create a new journey while experiencing the rich and diverse culture of Dumaguete City.</p>
               <button>See Details</button>
             </div>
-            <div className="ImageDiscover"><img src={Room4}alt />
-              <p>Location: 123 Riza St. Dumaguete City</p>
-              <p>No. of Bedrooms: 2 Only</p>
-              <p>Price: ₱ 10,000 Monthly </p>
+            <div className="ImageDiscover"><img src={Room4} alt="Dumaguete Resort" />
+                <h6>Location: 123 Riza St. Dumaguete City</h6>
+                <h6>No. of Bedrooms: 2 Only</h6>
+                <h6>Price: ₱ 10,000 Monthly </h6>
             </div>
           </div>
           <div className="grid-item-discover1">
@@ -104,9 +104,9 @@ function Home() {
               <button>See Details</button>
             </div>
             <div className="ImageDiscover"><img src={Room3} alt />
-              <p>Location: 103 Mabuhay St. Makati City</p>
-              <p>No. of Bedrooms: 3 Only</p>
-              <p>Price: ₱ 15,000 Monthly </p>
+              <h6>Location: 103 Mabuhay St. Makati City</h6>
+              <h6>No. of Bedrooms: 3 Only</h6>
+              <h6>Price: ₱ 15,000 Monthly </h6>
             </div>
           </div>
         </div>
@@ -117,13 +117,13 @@ function Home() {
       <div className="grid-container-discover">
         <div className="grid-item-discover1">
           <div className="text-discover">
-            <p>A peacefull place where you can relax any place of the home and enjoy the minimalist design.</p>
+            <p>A peacefull place where you can relax in any place of the home and enjoy the minimalist design.</p>
             <button>See Details</button>
           </div>
           <div className="ImageDiscover"><img src={Room5} alt />
-            <p>Location: 123 Riza St. Magsaysay City</p>
-            <p>No. of Bedrooms: 3 Only</p>
-            <p>Price: ₱ 10,000 Monthly </p>
+            <h6>Location: 123 Riza St. Magsaysay City</h6>
+            <h6>No. of Bedrooms: 3 Only</h6>
+            <h6>Price: ₱ 10,000 Monthly </h6>
           </div>
         </div>
         <div className="grid-item-discover1">
@@ -132,9 +132,9 @@ function Home() {
             <button>See Details</button>
           </div>
           <div className="ImageDiscover"><img src={Room2} alt />
-            <p>Location: 100 Moalboal Talisay Cebu City</p>
-            <p>No. of Bedrooms: 5 Only</p>
-            <p>Price: ₱ 18,000 Monthly </p>
+            <h6>Location: 100 Moalboal Talisay Cebu City</h6>
+            <h6>No. of Bedrooms: 5 Only</h6>
+            <h6>Price: ₱ 18,000 Monthly </h6>
           </div>
         </div>
       </div>
@@ -144,7 +144,7 @@ function Home() {
       <div className="recent-property-container">
         <div className="recent-image">
           <img src={HouseEmoji} alt="house emoji" className="recent-image" />
-          <h3>Recent Listing</h3>
+          <h3>Recent Listing</h3> 
         </div>
         <div className="grid-container1">
           <div className="grid-item1">

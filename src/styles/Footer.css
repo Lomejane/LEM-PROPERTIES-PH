@@ -1,23 +1,25 @@
 .footer {
   width: 100%;
   height: 65px;
-  background-color: #022238d5;
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  /* padding-top: 10px; */
+  background-color: #FAD9C1;
+  padding-top: auto;
 }
+/* body {
+  background-color: #FAD9C1;
+} */
 
 .socialMedia svg {
-  color: white;
   margin: 20px;
   font-size: 70px;
-  cursor: pointer;
+  /* cursor: pointer; */
 }
 
-.footer p {
+/* .footer p {
   color: white;
-}
+} */
 .bd-placeholder-img {
   font-size: 1.125rem;
   text-anchor: middle;

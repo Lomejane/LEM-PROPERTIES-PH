@@ -1,10 +1,10 @@
-:root {
+/* :root {
     --color-primary: #10202B;
     --color-secondary: #368D96;
     --color-info: #fff;
-    --color-additional: #000;
+    --color-additional: #000; */
 
-    --card-border-radius: 2rem;
+    /* --card-border-radius: 2rem;
     --border-radius-1: 0.4rem;
     --border-radius-2: 0.8rem;
     --border-radius-2: 1.2rem;
@@ -12,36 +12,33 @@
     --card-padding: 1.8rem;
     --padding-1: 1.2rem;
 
-    --box-shadow: 0 2rem var(--color info);
+    --box-shadow: 0 2rem var(--color info); */
 
- }
+ /* } */
 
 * {
     margin: 0;
     padding: 0;
-    outline: 0;
-    appearance: 0;
+    /* outline: 0; */
     border: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
     text-decoration: none;
     list-style: none;
 }
-
 html {
-    font-size: 14px;
-    scroll-behavior: smooth;
-    background: #10202B;
-    height: 100vh;
-    width: 100vw;
+  height: 100vh;
 }
 
+
 body {
-    margin: 0;
-    font-family: "Lato", sans-serif;
+    scroll-behavior: smooth;
+    background-color: #10202B;
+    width: 100%;
+    /* font-size: 10px; */
   }
   
-  .Navbar {
+  /* .Navbar {
     width: 100vw;
     height: 8vh;
     background-color: #000;
@@ -50,7 +47,7 @@ body {
   .Navbar .Logo {
     width: 10rem;
     padding-left: 10px;
-  }
+  } */
 
   .sidebar {
     margin: 0;
@@ -65,6 +62,7 @@ body {
   .sidebar a {
     display: block;
     color: #fff;
+    font-size: 2rem;
     padding: 16px;
     text-decoration: none;
   }
@@ -82,7 +80,6 @@ body {
   .material-symbols-sharp {
     float: left;
     width: 60px;
-    font-size: 50p;
     color: #fff;
 
   }
