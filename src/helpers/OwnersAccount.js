@@ -1,15 +1,16 @@
-import React from 'react'
-import Logo from '../assets/lem-logo.png';
+import React from 'react';
 import '../styles/OwnersAccount.css';
+
 const OwnersAccount = () => {
   return (
     
-<div>
-  <header>
-    <nav className="Navbar">
-      <img src={Logo} alt className="Logo" />
-    </nav>
-  </header>
+
+  // {/* <header>
+  //   <nav className="Navbar">
+  //     <img src={Logo} alt className="Logo" />
+  //   </nav>
+  // </header> */}
+  <div className='Nav'>
   <div className="sidebar">
     <a href="#home">
       <span className="material-symbols-sharp">
@@ -19,7 +20,7 @@ const OwnersAccount = () => {
     </a>
     <a href="#">
       <span className="material-symbols-sharp">
-        space_dashboard
+       Dashboard
       </span>
       <h3>Dashboard</h3>    
     </a>
@@ -47,7 +48,8 @@ const OwnersAccount = () => {
       <h3>Logout</h3>
     </a>
   </div>
-</div>
+  </div>
+
 
   );
 }
