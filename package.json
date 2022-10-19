@@ -8,7 +8,11 @@
     "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.2.2",
     "browser-router": "^0.2.0",
+<<<<<<< HEAD
     "material-symbols": "^0.2.13",
+=======
+    "node-modules": "^1.0.1",
+>>>>>>> 40037550145334b5e7c2db1454fef136e7645d5c
     "react": "^18.2.0",
     "react-bootstrap": "^2.5.0",
     "react-dom": "^18.2.0",
